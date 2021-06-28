@@ -1,3 +1,3 @@
-# Ratish's Project Portfolio
+# Ratish's Projects
 Data Science Projects
 
